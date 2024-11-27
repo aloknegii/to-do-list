@@ -66,11 +66,7 @@ A simple and interactive **To-Do List Application** built using Python's `tkinte
 
 ---
 
-## Screenshots
 
-### Main Interface
-
-![Main Interface Screenshot](link_to_screenshot.png)
 
 ---
 
